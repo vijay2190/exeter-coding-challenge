@@ -1,0 +1,3 @@
+Time Taken To Process--> 16.666460275650024
+Memory Processed--> 66.375
+Object Memory Processed--> 1.22562
